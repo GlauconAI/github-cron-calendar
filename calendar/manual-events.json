@@ -160,7 +160,7 @@
   {
     "uid": "confucius-bullet-journal-weekly-habit-review@openclaw-manual",
     "summary": "Confucius: 2026 Bullet Journal weekly Habit review",
-    "description": "每周一 10:30 统计上一自然周 Daily Journal / Habit tracker，生成周报文件、Habit tracker 周记录，并发送简报。\n对应 OpenClaw cron：35739952-806f-4ff1-aa6d-c3a7ff439321。\nSource: confucius-sanctum/projects/2026-bullet-journal/weekly-habit-review-rules.md",
+    "description": "每周一 10:30 统计上一自然周 Daily Journal / Habit tracker，生成上一周周报，并创建当前执行周 Habit tracker 页面后发送简报。\n对应 OpenClaw cron：35739952-806f-4ff1-aa6d-c3a7ff439321。\nSource: confucius-sanctum/projects/2026-bullet-journal/weekly-habit-review-rules.md",
     "timezone": "America/Vancouver",
     "dtstart": "20260622T103000",
     "dtend": "20260622T110000",
