@@ -169,7 +169,7 @@
   {
     "uid": "confucius-fifa-2026-daily-vancouver-match-brief@openclaw-manual",
     "summary": "Confucius: FIFA World Cup 2026 daily Vancouver match brief",
-    "description": "每天 22:15 汇报 FIFA World Cup 2026 当日赛果、B/K 组与 2026-07-07 Vancouver M96 观赛路径、关键球星、明日比赛预测、球队强弱和重点球星。国家名英文在前中文在后，球员名中文名加英文名。\n对应 OpenClaw cron：cf8fc6b2-c4e4-4c4c-ac75-f07fa028998e。\nSource: confucius-sanctum/projects/fifa-world-cup-2026-vancouver-match/daily-briefing-rules.md",
+    "description": "每天 22:15 汇报 FIFA World Cup 2026 当日赛果、B/K 组与 2026-07-07 Vancouver M96 观赛路径、关键球星、明日比赛预测、球队强弱和重点球星。国家名英文在前中文在后，球员名英文在前中文名括号在后。\n对应 OpenClaw cron：cf8fc6b2-c4e4-4c4c-ac75-f07fa028998e。\nSource: confucius-sanctum/projects/fifa-world-cup-2026-vancouver-match/daily-briefing-rules.md",
     "timezone": "America/Vancouver",
     "dtstart": "20260612T221500",
     "dtend": "20260612T224500",
