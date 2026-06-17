@@ -6,7 +6,7 @@ X-WR-CALNAME:OpenClaw Cron Jobs
 X-WR-TIMEZONE:America/Vancouver
 BEGIN:VEVENT
 UID:c3c79a59-cb29-43f1-a786-46a12178ae5d@openclaw-cron
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260525T100000
 DTEND;TZID=America/Vancouver:20260525T103000
 RRULE:FREQ=WEEKLY;BYDAY=MO;BYHOUR=10;BYMINUTE=0;BYSECOND=0
@@ -15,7 +15,7 @@ DESCRIPTION:每周一上午 10:00 生成上一自然周治理周报并发送 Tel
 END:VEVENT
 BEGIN:VEVENT
 UID:700a800e-426d-4e04-a320-f425916662d1@openclaw-cron
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260525T040000
 DTEND;TZID=America/Vancouver:20260525T043000
 RRULE:FREQ=WEEKLY;BYDAY=MO;BYHOUR=4;BYMINUTE=0;BYSECOND=0
@@ -24,7 +24,7 @@ DESCRIPTION:cron: 0 4 * * 1 @ America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
 UID:b5c7a4f6-9e4e-47fa-914d-70703c476ed3@openclaw-cron
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260601T090000
 DTEND;TZID=America/Vancouver:20260601T093000
 RRULE:FREQ=MONTHLY;BYMONTHDAY=1;BYHOUR=9;BYMINUTE=0;BYSECOND=0
@@ -33,7 +33,7 @@ DESCRIPTION:每月月初提醒用户为 Luka / Leah 测量身高、体重、头�
 END:VEVENT
 BEGIN:VEVENT
 UID:f41462dc-6551-419a-ac46-0167fd1aa636@openclaw-cron
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260526T093000
 DTEND;TZID=America/Vancouver:20260526T100000
 RRULE:FREQ=WEEKLY;BYDAY=TU;BYHOUR=9;BYMINUTE=30;BYSECOND=0
@@ -42,7 +42,7 @@ DESCRIPTION:每周二 09:30 发起资产盘点提醒；若本周未跳过/未完
 END:VEVENT
 BEGIN:VEVENT
 UID:e9e816cf-2530-4064-9f0f-366b0eb2a31f@openclaw-cron
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260526T100000
 DTEND;TZID=America/Vancouver:20260526T110000
 RRULE:FREQ=WEEKLY;BYDAY=TU;BYHOUR=10,11,12,13,14,15,16,17,18,19,20,21,22,23;BYMINUTE=0;BYSECOND=0
@@ -51,7 +51,7 @@ DESCRIPTION:每周二整点巡检；若本周资产盘点仍为 pending，则继
 END:VEVENT
 BEGIN:VEVENT
 UID:d5c47c3d-1f0f-4029-b38e-0519be36ea77@openclaw-cron
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260529T093000
 DTEND;TZID=America/Vancouver:20260529T100000
 RRULE:FREQ=WEEKLY;BYDAY=FR;BYHOUR=9;BYMINUTE=30;BYSECOND=0
@@ -60,7 +60,7 @@ DESCRIPTION:每周五巡检 LL 2026 summer 周末非游泳低龄课程；仅在 
 END:VEVENT
 BEGIN:VEVENT
 UID:af965a5c-3834-48e0-9cd7-845fa4a16fab@openclaw-cron
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260523T110000
 DTEND;TZID=America/Vancouver:20260523T113000
 RRULE:FREQ=WEEKLY;BYDAY=FR;BYHOUR=11;BYMINUTE=0;BYSECOND=0
@@ -69,7 +69,7 @@ DESCRIPTION:每周五 11:00 筛本周末适合 LL 的 Tri-Cities 亲子活动，
 END:VEVENT
 BEGIN:VEVENT
 UID:e53709cf-90aa-4152-8f39-bd4cc86fdbbb@openclaw-cron
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260531T110000
 DTEND;TZID=America/Vancouver:20260531T113000
 RRULE:FREQ=WEEKLY;BYDAY=SU;BYHOUR=11;BYMINUTE=0;BYSECOND=0
@@ -78,7 +78,7 @@ DESCRIPTION:每周日 11:00 生成本周 Plato AI intelligence weekly brief 并�
 END:VEVENT
 BEGIN:VEVENT
 UID:2fcf7f7e-af5d-48ad-9178-d570da8fee6d@openclaw-cron
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260608T200000
 DTEND;TZID=America/Vancouver:20260608T203000
 RRULE:FREQ=DAILY;BYHOUR=20;BYMINUTE=0;BYSECOND=0
@@ -87,7 +87,7 @@ DESCRIPTION:每天 20:00 按本周学习计划为次日预加载 NotebookLM；�
 END:VEVENT
 BEGIN:VEVENT
 UID:confucius-soccer-1-5-2yrs-pinetree-2026-05@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260516T090000
 DTEND;TZID=America/Vancouver:20260516T093000
 RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260613T235959
@@ -97,7 +97,7 @@ LOCATION:Pinetree Community Centre\, Pinetree Gymnasium 1
 END:VEVENT
 BEGIN:VEVENT
 UID:hippocrates-leah-ophthalmology-2026-05-26@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260526T000000
 DTEND;TZID=America/Vancouver:20260526T235900
 SUMMARY:Leah 眼科就诊（时间待补）
@@ -106,7 +106,7 @@ LOCATION:#601-9639 137A Street\, Surrey\, BC V3T 0M1
 END:VEVENT
 BEGIN:VEVENT
 UID:hippocrates-luka-ear-followup-2026-05-27@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260527T194400
 DTEND;TZID=America/Vancouver:20260527T201400
 SUMMARY:Luka 右耳不适回访提醒
@@ -114,7 +114,7 @@ DESCRIPTION:回访 Luka 这一周内是否再次耳朵不适，以及是否出�
 END:VEVENT
 BEGIN:VEVENT
 UID:confucius-daycare-family-activity-2026-05-29@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260529T153000
 DTEND;TZID=America/Vancouver:20260529T163000
 SUMMARY:LL Daycare Family Activity
@@ -123,7 +123,7 @@ LOCATION:LL Daycare
 END:VEVENT
 BEGIN:VEVENT
 UID:hippocrates-leah-allergy-2026-06-01@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260601T124500
 DTEND;TZID=America/Vancouver:20260601T134500
 SUMMARY:Leah 过敏门诊
@@ -132,7 +132,7 @@ LOCATION:Suite 506 - 1750 East 10th Ave\, Vancouver\, BC V5N 5K4
 END:VEVENT
 BEGIN:VEVENT
 UID:confucius-harper-3rd-birthday-party-2026-06-20@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260620T103000
 DTEND;TZID=America/Vancouver:20260620T123000
 SUMMARY:Harper's 3rd Birthday Party
@@ -141,7 +141,7 @@ LOCATION:1331 Wellon St Clubhouse Pool Lounge
 END:VEVENT
 BEGIN:VEVENT
 UID:plato-402v-transfer-reminder-2026-10-01@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20261001T090000
 DTEND;TZID=America/Vancouver:20261001T093000
 SUMMARY:402v.com 域名转移提醒
@@ -149,7 +149,7 @@ DESCRIPTION:提醒检查 402v.com 从 Name.com 转移到更便宜注册商的方
 END:VEVENT
 BEGIN:VEVENT
 UID:hippocrates-leah-cough-followup-2026-06-12@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260612T183700
 DTEND;TZID=America/Vancouver:20260612T190700
 SUMMARY:Leah 短促咳嗽继续观察一周回访提醒
@@ -157,7 +157,7 @@ DESCRIPTION:继续回访 Leah 这一周短促咳嗽是否进一步减轻，是�
 END:VEVENT
 BEGIN:VEVENT
 UID:confucius-vso-mini-music-makers-coquitlam-2026-08@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260808T103000
 DTEND;TZID=America/Vancouver:20260808T113000
 RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260822T235959
@@ -167,7 +167,7 @@ LOCATION:Evergreen Cultural Centre\, 1205 Pinetree Way\, Coquitlam\, BC V3B 7Y3
 END:VEVENT
 BEGIN:VEVENT
 UID:confucius-vso-mini-music-makers-prestart-reminder-2026-08-05@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260805T190000
 DTEND;TZID=America/Vancouver:20260805T193000
 SUMMARY:提醒：Luka VSO Mini Music Makers 本周开课
@@ -176,7 +176,7 @@ LOCATION:Evergreen Cultural Centre\, 1205 Pinetree Way\, Coquitlam\, BC V3B 7Y3
 END:VEVENT
 BEGIN:VEVENT
 UID:hippocrates-user-family-doctor-ldl-2026-06-10@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260610T120000
 DTEND;TZID=America/Vancouver:20260610T123000
 SUMMARY:本人家庭医生电话问诊：Dr. Wang
@@ -185,7 +185,7 @@ LOCATION:Phone appointment · NUME MD Medical Clinic
 END:VEVENT
 BEGIN:VEVENT
 UID:hippocrates-user-ldl-monthly-tracking@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260710T090000
 DTEND;TZID=America/Vancouver:20260710T093000
 RRULE:FREQ=MONTHLY;BYMONTHDAY=10
@@ -194,7 +194,7 @@ DESCRIPTION:每月跟踪 LDL 管理：运动与饮食控制执行情况、是否
 END:VEVENT
 BEGIN:VEVENT
 UID:hippocrates-children-adenoid-chen-referral-followup-2026-06-24@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260624T090000
 DTEND;TZID=America/Vancouver:20260624T093000
 SUMMARY:回访：陈医生腺样体转诊是否回复
@@ -202,7 +202,7 @@ DESCRIPTION:回访 Luka / Leah 腺样体肥大 / 中耳积液相关转诊进展�
 END:VEVENT
 BEGIN:VEVENT
 UID:amou-taptap-phone-migration-2026-06-19@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260619T090000
 DTEND;TZID=America/Vancouver:20260619T093000
 SUMMARY:提醒：修改 TapTap 账号绑定手机号
@@ -210,7 +210,7 @@ DESCRIPTION:提醒将 TapTap 原正确账号 15697782718 的绑定手机号改�
 END:VEVENT
 BEGIN:VEVENT
 UID:amou-biligame-sanguosha-tianming-result-2026-06-16@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260616T090000
 DTEND;TZID=America/Vancouver:20260616T093000
 SUMMARY:检查：BiliGame 三国杀天命棋局首测资格
@@ -218,7 +218,7 @@ DESCRIPTION:用户已在 BiliGame 重新申请《三国杀：天命棋局》启�
 END:VEVENT
 BEGIN:VEVENT
 UID:socrates-weekly-workspace-github-backup@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260615T090000
 DTEND;TZID=America/Vancouver:20260615T093000
 RRULE:FREQ=WEEKLY;BYDAY=MO
@@ -227,7 +227,7 @@ DESCRIPTION:每周按用户授权执行 `把 workspace 提交到 Github`：先�
 END:VEVENT
 BEGIN:VEVENT
 UID:confucius-bullet-journal-daily-plan-generation@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260616T070000
 DTEND;TZID=America/Vancouver:20260616T073000
 RRULE:FREQ=DAILY
@@ -236,7 +236,7 @@ DESCRIPTION:每天 07:00 生成当天 2026 Bullet Journal 日程，创建当天 
 END:VEVENT
 BEGIN:VEVENT
 UID:confucius-bullet-journal-nightly-archive@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260615T230000
 DTEND;TZID=America/Vancouver:20260615T233000
 RRULE:FREQ=DAILY
@@ -245,7 +245,7 @@ DESCRIPTION:每天 23:00 将当天最终日程归档到对应 Daily Journal，�
 END:VEVENT
 BEGIN:VEVENT
 UID:confucius-bullet-journal-weekly-habit-review@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260622T103000
 DTEND;TZID=America/Vancouver:20260622T110000
 RRULE:FREQ=WEEKLY;BYDAY=MO
@@ -254,11 +254,11 @@ DESCRIPTION:每周一 10:30 统计上一自然周 Daily Journal / Habit tracker�
 END:VEVENT
 BEGIN:VEVENT
 UID:confucius-fifa-2026-daily-vancouver-match-brief@openclaw-manual
-DTSTAMP:20260617T053631Z
+DTSTAMP:20260617T054740Z
 DTSTART;TZID=America/Vancouver:20260612T221500
 DTEND;TZID=America/Vancouver:20260612T224500
 RRULE:FREQ=DAILY;UNTIL=20260719T235959
 SUMMARY:Confucius: FIFA World Cup 2026 daily Vancouver match brief
-DESCRIPTION:每天 22:15 汇报 FIFA World Cup 2026 当日赛果、B/K 组与 2026-07-07 Vancouver M96 观赛路径、关键球星、明日比赛预测、球队强弱、FIFA 世界排名和重点球星。国家名英文在前中文在后；球员名英文在前，括号内补中文名和年龄，例如 Lamine Yamal（拉明·亚马尔，18岁）。\n对应 OpenClaw cron：cf8fc6b2-c4e4-4c4c-ac75-f07fa028998e。\nSource: confucius-sanctum/projects/fifa-world-cup-2026-vancouver-match/daily-briefing-rules.md
+DESCRIPTION:每天 22:15 汇报 FIFA World Cup 2026 当日赛果、B/K 组与 2026-07-07 Vancouver M96 观赛路径、关键球星、明日比赛预测、球队强弱、FIFA 世界排名和重点球星。国家名英文在前中文在后；球员名英文在前，括号内补中文名和年龄，例如 Lamine Yamal（拉明·亚马尔，18岁）。\n对应 OpenClaw cron：cf8fc6b2-c4e4-4c4c-ac75-f07fa028998e。\nSource: confucius-sanctum/projects/sports-match-tracking/sports-briefing-rules.md + projects/sports-match-tracking/fifa-world-cup-2026/daily-briefing-rules.md
 END:VEVENT
 END:VCALENDAR
