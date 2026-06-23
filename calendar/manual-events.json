@@ -1,8 +1,8 @@
 [
   {
-    "uid": "confucius-soccer-1-5-2yrs-pinetree-2026-05@openclaw-manual",
+    "uid": "giskard-soccer-1-5-2yrs-pinetree-2026-05@openclaw-manual",
     "summary": "LL: Soccer 1.5-2yrs",
-    "description": "Coquitlam Pinetree Community Centre · Soccer 1.5-2yrs · Course ID 218650\n16/05/2026 - 13/06/2026 · Saturdays 09:00-09:30\nSource: coquitlam-kids-classes/course-items/soccer-1.5-2yrs-pinetree-2026-05.md + City of Coquitlam listing",
+    "description": "Coquitlam Pinetree Community Centre · Soccer 1.5-2yrs · Course ID 218650\n16/05/2026 - 13/06/2026 · Saturdays 09:00-09:30\nSource: giskard-zeroth/projects/coquitlam-kids-classes/course-items/soccer-1.5-2yrs-pinetree-2026-05.md + City of Coquitlam listing",
     "location": "Pinetree Community Centre, Pinetree Gymnasium 1",
     "timezone": "America/Vancouver",
     "dtstart": "20260516T090000",
@@ -17,14 +17,6 @@
     "timezone": "America/Vancouver",
     "dtstart": "20260526T000000",
     "dtend": "20260526T235900"
-  },
-  {
-    "uid": "hippocrates-luka-ear-followup-2026-05-27@openclaw-manual",
-    "summary": "Luka 右耳不适回访提醒",
-    "description": "回访 Luka 这一周内是否再次耳朵不适，以及是否出现发热、夜醒、抓耳增多、听力变化、耳流液或疼痛加重。\n对应 OpenClaw 定时任务：luka-ear-followup-1w。\nSource: hippocrates-asclepeion/agenda.md + hippocrates MEMORY.md",
-    "timezone": "America/Vancouver",
-    "dtstart": "20260527T194400",
-    "dtend": "20260527T201400"
   },
   {
     "uid": "confucius-daycare-family-activity-2026-05-29@openclaw-manual",
@@ -54,25 +46,9 @@
     "dtend": "20260620T123000"
   },
   {
-    "uid": "plato-402v-transfer-reminder-2026-10-01@openclaw-manual",
-    "summary": "402v.com 域名转移提醒",
-    "description": "提醒检查 402v.com 从 Name.com 转移到更便宜注册商的方案。当前优先复核 Cloudflare Registrar、Porkbun、Spaceship 三家当时的 .com 转入 / 续费价格，并启动解锁域名、获取 EPP code、核对 DNS / MX 的准备。对应 OpenClaw 定时任务：402v.com renewal reminder。Source: plato-academy/agenda.md + 2026-05-29 WHOIS 查询记录",
-    "timezone": "America/Vancouver",
-    "dtstart": "20261001T090000",
-    "dtend": "20261001T093000"
-  },
-  {
-    "uid": "hippocrates-leah-cough-followup-2026-06-12@openclaw-manual",
-    "summary": "Leah 短促咳嗽继续观察一周回访提醒",
-    "description": "继续回访 Leah 这一周短促咳嗽是否进一步减轻，是否仍在学校午间被老师反馈，以及是否出现夜间咳醒、运动后稳定加重、喘鸣、明显呼吸费力、发热反复或精神食欲变差。\n对应 OpenClaw 定时任务：leah-cough-followup-extend-1w。\nSource: hippocrates-asclepeion/agenda.md + Leah 耳鼻喉长期资料",
-    "timezone": "America/Vancouver",
-    "dtstart": "20260612T183700",
-    "dtend": "20260612T190700"
-  },
-  {
-    "uid": "confucius-vso-mini-music-makers-coquitlam-2026-08@openclaw-manual",
+    "uid": "giskard-vso-mini-music-makers-coquitlam-2026-08@openclaw-manual",
     "summary": "Luka: VSO Mini Music Makers",
-    "description": "MMM Evergreen: Family Storytime 10.30am · VSO School of Music · Course #16145 / Activity ID 16049\n3 sessions: Saturdays 10:30-11:30 from 2026-08-08 to 2026-08-22. Registered participant: Luka Yu. Fee: CAD 95.\nSource: confucius-sanctum/projects/coquitlam-kids-classes/course-items/vso-mini-music-makers-coquitlam-2026.md",
+    "description": "MMM Evergreen: Family Storytime 10.30am · VSO School of Music · Course #16145 / Activity ID 16049\n3 sessions: Saturdays 10:30-11:30 from 2026-08-08 to 2026-08-22. Registered participant: Luka Yu. Fee: CAD 95.\nSource: giskard-zeroth/projects/coquitlam-kids-classes/course-items/vso-mini-music-makers-coquitlam-2026.md",
     "location": "Evergreen Cultural Centre, 1205 Pinetree Way, Coquitlam, BC V3B 7Y3",
     "timezone": "America/Vancouver",
     "dtstart": "20260808T103000",
@@ -80,9 +56,9 @@
     "rrule": "FREQ=WEEKLY;BYDAY=SA;UNTIL=20260822T235959"
   },
   {
-    "uid": "confucius-vso-mini-music-makers-prestart-reminder-2026-08-05@openclaw-manual",
+    "uid": "giskard-vso-mini-music-makers-prestart-reminder-2026-08-05@openclaw-manual",
     "summary": "提醒：Luka VSO Mini Music Makers 本周开课",
-    "description": "提醒本周六（2026-08-08）Luka 的 VSO Mini Music Makers 开始。检查出发时间、停车、带水杯/换洗、是否提前到场。\nSource: confucius-sanctum/agenda.md + VSO registration record",
+    "description": "提醒本周六（2026-08-08）Luka 的 VSO Mini Music Makers 开始。检查出发时间、停车、带水杯/换洗、是否提前到场。\nSource: giskard-zeroth/agenda.md + VSO registration record",
     "location": "Evergreen Cultural Centre, 1205 Pinetree Way, Coquitlam, BC V3B 7Y3",
     "timezone": "America/Vancouver",
     "dtstart": "20260805T190000",
@@ -96,83 +72,5 @@
     "timezone": "America/Vancouver",
     "dtstart": "20260610T120000",
     "dtend": "20260610T123000"
-  },
-  {
-    "uid": "hippocrates-user-ldl-monthly-tracking@openclaw-manual",
-    "summary": "每月 LDL 跟踪提醒",
-    "description": "每月跟踪 LDL 管理：运动与饮食控制执行情况、是否完成复查、是否拿到 AveConnect / LifeLabs 等检查结果、是否需要家庭医生 follow-up。\n对应 OpenClaw 定时任务：user-ldl-monthly-tracking-reminder。\nSource: hippocrates-asclepeion/agenda.md + 本人 LDL 长期资料",
-    "timezone": "America/Vancouver",
-    "dtstart": "20260710T090000",
-    "dtend": "20260710T093000",
-    "rrule": "FREQ=MONTHLY;BYMONTHDAY=10"
-  },
-  {
-    "uid": "hippocrates-children-adenoid-chen-referral-followup-2026-06-24@openclaw-manual",
-    "summary": "回访：陈医生腺样体转诊是否回复",
-    "description": "回访 Luka / Leah 腺样体肥大 / 中耳积液相关转诊进展：陈医生是否已回复家庭医生、是否确认接收转诊、预计等待时间，以及是否需要家庭医生再次 follow-up 或改转其他 ENT。\n对应 OpenClaw 定时任务：children-adenoid-chen-referral-followup-2026-06-24。\nSource: hippocrates-asclepeion/agenda.md + Luka / Leah 耳鼻喉长期资料",
-    "timezone": "America/Vancouver",
-    "dtstart": "20260624T090000",
-    "dtend": "20260624T093000"
-  },
-  {
-    "uid": "amou-taptap-phone-migration-2026-06-19@openclaw-manual",
-    "summary": "提醒：修改 TapTap 账号绑定手机号",
-    "description": "提醒将 TapTap 原正确账号 15697782718 的绑定手机号改为 18500082718。背景：18500082718 曾误注册新账号，已删除；冻结期到 2026-06-18，2026-06-19 可尝试改绑。\n对应 OpenClaw 定时任务：740bc4ba-b288-4ea5-806f-b678bc734e30。\nSource: amou-hana-no-ma/projects/游戏/TapTap账号手机号迁移.md",
-    "timezone": "America/Vancouver",
-    "dtstart": "20260619T090000",
-    "dtend": "20260619T093000"
-  },
-  {
-    "uid": "amou-biligame-sanguosha-tianming-result-2026-06-16@openclaw-manual",
-    "summary": "检查：BiliGame 三国杀天命棋局首测资格",
-    "description": "用户已在 BiliGame 重新申请《三国杀：天命棋局》启明测试资格。提醒检查 BiliGame 页面、B站 / 游戏中心消息或相关站内通知；本次启明测试为限量删档不计费，体验后数据不保留，因此当天还要决定是否实际参加，并继续留意官方是否公布公测 / 不删档测试时间。\n申请入口：https://www.biligame.com/detail/?id=119381\n对应 OpenClaw 定时任务：bbd3d542-c991-4846-97dd-a6c168ef7835。\nSource: amou-hana-no-ma/projects/游戏/三国杀天命棋局/README.md",
-    "timezone": "America/Vancouver",
-    "dtstart": "20260616T090000",
-    "dtend": "20260616T093000"
-  },
-  {
-    "uid": "socrates-weekly-workspace-github-backup@openclaw-manual",
-    "summary": "Socrates: 每周 workspace GitHub 备份",
-    "description": "每周按用户授权执行 `把 workspace 提交到 Github`：先检查体积、敏感路径和 `.gitignore`，再使用 `git add .`，审计 staged 内容，分主题 commit，并 push 到 `git@github.com:GlauconAI/openclaw-backup.git`。完成后向用户发送简要汇报。\n对应 OpenClaw cron：3c0a5a91-56e7-454d-a6b4-12156e930f23。\nSource: socrates-agora/agenda.md + Skill Workshop proposal workspace-github-backup-20260612-74024717ae",
-    "timezone": "America/Vancouver",
-    "dtstart": "20260615T090000",
-    "dtend": "20260615T093000",
-    "rrule": "FREQ=WEEKLY;BYDAY=MO"
-  },
-  {
-    "uid": "confucius-bullet-journal-daily-plan-generation@openclaw-manual",
-    "summary": "Confucius: 2026 Bullet Journal daily plan generation",
-    "description": "每天 07:00 生成当天 2026 Bullet Journal 日程，创建当天 Daily Journal，并发送 Brief。\n对应 OpenClaw cron：73b80b05-f23d-4e0d-933e-3ce5581c82a5。\nSource: confucius-sanctum/projects/2026-bullet-journal/daily-plan-rules.md",
-    "timezone": "America/Vancouver",
-    "dtstart": "20260616T070000",
-    "dtend": "20260616T073000",
-    "rrule": "FREQ=DAILY"
-  },
-  {
-    "uid": "confucius-bullet-journal-nightly-archive@openclaw-manual",
-    "summary": "Confucius: 2026 Bullet Journal nightly Daily Journal archive",
-    "description": "每天 23:00 将当天最终日程归档到对应 Daily Journal，不修改历史归档。\n对应 OpenClaw cron：4e076592-7e82-4056-947e-1c8aca570640。\nSource: confucius-sanctum/projects/2026-bullet-journal/daily-plan-rules.md",
-    "timezone": "America/Vancouver",
-    "dtstart": "20260615T230000",
-    "dtend": "20260615T233000",
-    "rrule": "FREQ=DAILY"
-  },
-  {
-    "uid": "confucius-bullet-journal-weekly-habit-review@openclaw-manual",
-    "summary": "Confucius: 2026 Bullet Journal weekly Habit review",
-    "description": "每周一 10:30 统计上一自然周 Daily Journal / Habit tracker，生成上一周周报，并创建当前执行周 Habit tracker 页面后发送简报。\n对应 OpenClaw cron：35739952-806f-4ff1-aa6d-c3a7ff439321。\nSource: confucius-sanctum/projects/2026-bullet-journal/weekly-habit-review-rules.md",
-    "timezone": "America/Vancouver",
-    "dtstart": "20260622T103000",
-    "dtend": "20260622T110000",
-    "rrule": "FREQ=WEEKLY;BYDAY=MO"
-  },
-  {
-    "uid": "confucius-fifa-2026-daily-vancouver-match-brief@openclaw-manual",
-    "summary": "Confucius: FIFA World Cup 2026 daily Vancouver match brief",
-    "description": "每天 22:15 汇报 FIFA World Cup 2026 当日赛果、B/K 组与 2026-07-07 Vancouver M96 观赛路径、关键球星、明日比赛预测、球队强弱、FIFA 世界排名和重点球星。国家名英文在前中文在后；球员名英文在前，括号内补中文名和年龄，例如 Lamine Yamal（拉明·亚马尔，18岁）。\n对应 OpenClaw cron：cf8fc6b2-c4e4-4c4c-ac75-f07fa028998e。\nSource: confucius-sanctum/projects/sports-match-tracking/sports-briefing-rules.md + projects/sports-match-tracking/fifa-world-cup-2026/daily-briefing-rules.md",
-    "timezone": "America/Vancouver",
-    "dtstart": "20260612T221500",
-    "dtend": "20260612T224500",
-    "rrule": "FREQ=DAILY;UNTIL=20260719T235959"
   }
 ]
