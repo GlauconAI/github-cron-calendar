@@ -47,12 +47,12 @@
   },
   {
     "uid": "confucius-annie-5th-birthday-party-2026-08-08@openclaw-manual",
-    "summary": "Annie's 5th Birthday Party",
-    "description": "温迪的女儿 Annie 的 5 岁生日会。\nRSVP: Ting by 2026-08-01, 604-401-8422\nNote: 与 Luka VSO Mini Music Makers 2026-08-08 10:30-11:30 冲突，需要后续取舍。\nSource: relationship-calendar/events/annie-birthday.md + invitation image",
+    "summary": "Annie birthday: early greeting",
+    "description": "温迪的女儿 Annie 的 5 岁生日会。原 party 时间 10:00-12:00；当前家庭安排为 9 点多提前到 Blue Mountain Park 打招呼，然后去 Luka 的 VSO Mini Music Makers 10:30-11:30，下午再去 Ike 生日会。\nRSVP: Ting by 2026-08-01, 604-401-8422\nSource: relationship-calendar/events/annie-birthday.md + invitation image + user schedule update 2026-06-23",
     "location": "Blue Mountain Park",
     "timezone": "America/Vancouver",
-    "dtstart": "20260808T100000",
-    "dtend": "20260808T120000"
+    "dtstart": "20260808T091000",
+    "dtend": "20260808T101500"
   },
   {
     "uid": "confucius-ike-birthday-party-2026-08-08@openclaw-manual",
@@ -62,6 +62,15 @@
     "timezone": "America/Vancouver",
     "dtstart": "20260808T140000",
     "dtend": "20260808T163000"
+  },
+  {
+    "uid": "confucius-vancouver-island-west-coast-family-trip-2026-07-25@openclaw-manual",
+    "summary": "Vancouver Island / Tofino / Green Point family trip",
+    "description": "当前最新记录按 2026-07-25 至 2026-08-02 处理：7/25-7/27 Nanaimo；7/27-7/29 Ucluelet 室内住宿待收敛；7/29-7/31 Ucluelet Campground；7/31-8/2 Green Point Campground Site 39。用户 2026-06-23 记得可能是 7/26-8/2；已核对现有项目记录为 7/25-8/2，后续如确认改期再调整。\nSource: confucius-sanctum/projects/vancouver-island-west-coast-family-trip-2026/README.md + memory/2026-06-14.md",
+    "location": "Nanaimo / Ucluelet / Green Point Campground, Vancouver Island, BC",
+    "timezone": "America/Vancouver",
+    "dtstart": "20260725T090000",
+    "dtend": "20260802T200000"
   },
   {
     "uid": "giskard-vso-mini-music-makers-coquitlam-2026-08@openclaw-manual",
