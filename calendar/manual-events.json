@@ -46,6 +46,24 @@
     "dtend": "20260620T123000"
   },
   {
+    "uid": "confucius-annie-5th-birthday-party-2026-08-08@openclaw-manual",
+    "summary": "Annie's 5th Birthday Party",
+    "description": "温迪的女儿 Annie 的 5 岁生日会。\nRSVP: Ting by 2026-08-01, 604-401-8422\nNote: 与 Luka VSO Mini Music Makers 2026-08-08 10:30-11:30 冲突，需要后续取舍。\nSource: relationship-calendar/events/annie-birthday.md + invitation image",
+    "location": "Blue Mountain Park",
+    "timezone": "America/Vancouver",
+    "dtstart": "20260808T100000",
+    "dtend": "20260808T120000"
+  },
+  {
+    "uid": "confucius-ike-birthday-party-2026-08-08@openclaw-manual",
+    "summary": "Ike's Birthday Party",
+    "description": "刘山汇的儿子毛豆（Ike）的生日会。请带泳衣和水枪；siblings are welcome。\nRSVP by 2026-08-06, 778-996-4225\nSource: relationship-calendar/events/ike-birthday.md + invitation image",
+    "location": "Blue Mountain Park Shelter, 975 King Albert Ave, Coquitlam",
+    "timezone": "America/Vancouver",
+    "dtstart": "20260808T140000",
+    "dtend": "20260808T163000"
+  },
+  {
     "uid": "giskard-vso-mini-music-makers-coquitlam-2026-08@openclaw-manual",
     "summary": "Luka: VSO Mini Music Makers",
     "description": "MMM Evergreen: Family Storytime 10.30am · VSO School of Music · Course #16145 / Activity ID 16049\n3 sessions: Saturdays 10:30-11:30 from 2026-08-08 to 2026-08-22. Registered participant: Luka Yu. Fee: CAD 95.\nSource: giskard-zeroth/projects/coquitlam-kids-classes/course-items/vso-mini-music-makers-coquitlam-2026.md",
