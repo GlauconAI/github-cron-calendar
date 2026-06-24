@@ -92,6 +92,15 @@
     "dtend": "20260805T193000"
   },
   {
+    "uid": "confucius-fifa-world-cup-2026-vancouver-m96-2026-07-07@openclaw-manual",
+    "summary": "FIFA World Cup 2026: Round of 16 at BC Place",
+    "description": "Ticket: FIFA World Cup 2026™\nDate: 2026-07-07 Tuesday\nTime: 13:00-14:30\nProvider: FIFA\nReservation Number: 06014872699\nAttendees: 用户与 Kathy\nVenue: Vancouver / BC Place\nMatch: Round of 16, M96, current placeholder W85 vs W87\nSource: calendar screenshot file_8---d6f635fb-b941-4110-ba24-d0122fc63159.jpg + confucius-sanctum/projects/sports-match-tracking/fifa-world-cup-2026/温哥华-2026-07-07-fifa-比赛跟踪.md",
+    "location": "BC Place, Vancouver, BC",
+    "timezone": "America/Vancouver",
+    "dtstart": "20260707T130000",
+    "dtend": "20260707T143000"
+  },
+  {
     "uid": "hippocrates-user-family-doctor-ldl-2026-06-10@openclaw-manual",
     "summary": "本人家庭医生电话问诊：Dr. Wang",
     "description": "NUME MD Medical Clinic · Dr. Wang · 电话问诊\n本次准备讨论国内检查提示 LDL（坏胆固醇）偏高的问题。\nSource: hippocrates-asclepeion/projects/长期健康资料/本人/全科/LDL-偏高/2026-06-10-家庭医生电话问诊预约.md",

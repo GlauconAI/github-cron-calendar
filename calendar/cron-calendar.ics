@@ -6,7 +6,7 @@ X-WR-CALNAME:Glaucon Life Calendar
 X-WR-TIMEZONE:America/Vancouver
 BEGIN:VEVENT
 UID:giskard-soccer-1-5-2yrs-pinetree-2026-05@openclaw-manual
-DTSTAMP:20260623T224537Z
+DTSTAMP:20260624T214248Z
 DTSTART;TZID=America/Vancouver:20260516T090000
 DTEND;TZID=America/Vancouver:20260516T093000
 RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260613T235959
@@ -16,7 +16,7 @@ LOCATION:Pinetree Community Centre\, Pinetree Gymnasium 1
 END:VEVENT
 BEGIN:VEVENT
 UID:hippocrates-leah-ophthalmology-2026-05-26@openclaw-manual
-DTSTAMP:20260623T224537Z
+DTSTAMP:20260624T214248Z
 DTSTART;TZID=America/Vancouver:20260526T000000
 DTEND;TZID=America/Vancouver:20260526T235900
 SUMMARY:Leah 眼科就诊（时间待补）
@@ -25,7 +25,7 @@ LOCATION:#601-9639 137A Street\, Surrey\, BC V3T 0M1
 END:VEVENT
 BEGIN:VEVENT
 UID:confucius-daycare-family-activity-2026-05-29@openclaw-manual
-DTSTAMP:20260623T224537Z
+DTSTAMP:20260624T214248Z
 DTSTART;TZID=America/Vancouver:20260529T153000
 DTEND;TZID=America/Vancouver:20260529T163000
 SUMMARY:LL Daycare Family Activity
@@ -34,7 +34,7 @@ LOCATION:LL Daycare
 END:VEVENT
 BEGIN:VEVENT
 UID:hippocrates-leah-allergy-2026-06-01@openclaw-manual
-DTSTAMP:20260623T224537Z
+DTSTAMP:20260624T214248Z
 DTSTART;TZID=America/Vancouver:20260601T124500
 DTEND;TZID=America/Vancouver:20260601T134500
 SUMMARY:Leah 过敏门诊
@@ -43,7 +43,7 @@ LOCATION:Suite 506 - 1750 East 10th Ave\, Vancouver\, BC V5N 5K4
 END:VEVENT
 BEGIN:VEVENT
 UID:confucius-harper-3rd-birthday-party-2026-06-20@openclaw-manual
-DTSTAMP:20260623T224537Z
+DTSTAMP:20260624T214248Z
 DTSTART;TZID=America/Vancouver:20260620T103000
 DTEND;TZID=America/Vancouver:20260620T123000
 SUMMARY:Harper's 3rd Birthday Party
@@ -52,7 +52,7 @@ LOCATION:1331 Wellon St Clubhouse Pool Lounge
 END:VEVENT
 BEGIN:VEVENT
 UID:confucius-annie-5th-birthday-party-2026-08-08@openclaw-manual
-DTSTAMP:20260623T224537Z
+DTSTAMP:20260624T214248Z
 DTSTART;TZID=America/Vancouver:20260808T091000
 DTEND;TZID=America/Vancouver:20260808T101500
 SUMMARY:Annie birthday: early greeting
@@ -61,7 +61,7 @@ LOCATION:Blue Mountain Park
 END:VEVENT
 BEGIN:VEVENT
 UID:confucius-ike-birthday-party-2026-08-08@openclaw-manual
-DTSTAMP:20260623T224537Z
+DTSTAMP:20260624T214248Z
 DTSTART;TZID=America/Vancouver:20260808T140000
 DTEND;TZID=America/Vancouver:20260808T163000
 SUMMARY:Ike's Birthday Party
@@ -70,7 +70,7 @@ LOCATION:Blue Mountain Park Shelter\, 975 King Albert Ave\, Coquitlam
 END:VEVENT
 BEGIN:VEVENT
 UID:confucius-vancouver-island-west-coast-family-trip-2026-07-25@openclaw-manual
-DTSTAMP:20260623T224537Z
+DTSTAMP:20260624T214248Z
 DTSTART;TZID=America/Vancouver:20260725T090000
 DTEND;TZID=America/Vancouver:20260802T200000
 SUMMARY:Vancouver Island / Tofino / Green Point family trip
@@ -79,7 +79,7 @@ LOCATION:Nanaimo / Ucluelet / Green Point Campground\, Vancouver Island\, BC
 END:VEVENT
 BEGIN:VEVENT
 UID:giskard-vso-mini-music-makers-coquitlam-2026-08@openclaw-manual
-DTSTAMP:20260623T224537Z
+DTSTAMP:20260624T214248Z
 DTSTART;TZID=America/Vancouver:20260808T103000
 DTEND;TZID=America/Vancouver:20260808T113000
 RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260822T235959
@@ -89,7 +89,7 @@ LOCATION:Evergreen Cultural Centre\, 1205 Pinetree Way\, Coquitlam\, BC V3B 7Y3
 END:VEVENT
 BEGIN:VEVENT
 UID:giskard-vso-mini-music-makers-prestart-reminder-2026-08-05@openclaw-manual
-DTSTAMP:20260623T224537Z
+DTSTAMP:20260624T214248Z
 DTSTART;TZID=America/Vancouver:20260805T190000
 DTEND;TZID=America/Vancouver:20260805T193000
 SUMMARY:提醒：Luka VSO Mini Music Makers 本周开课
@@ -97,8 +97,17 @@ DESCRIPTION:提醒本周六（2026-08-08）Luka 的 VSO Mini Music Makers 开始
 LOCATION:Evergreen Cultural Centre\, 1205 Pinetree Way\, Coquitlam\, BC V3B 7Y3
 END:VEVENT
 BEGIN:VEVENT
+UID:confucius-fifa-world-cup-2026-vancouver-m96-2026-07-07@openclaw-manual
+DTSTAMP:20260624T214248Z
+DTSTART;TZID=America/Vancouver:20260707T130000
+DTEND;TZID=America/Vancouver:20260707T143000
+SUMMARY:FIFA World Cup 2026: Round of 16 at BC Place
+DESCRIPTION:Ticket: FIFA World Cup 2026™\nDate: 2026-07-07 Tuesday\nTime: 13:00-14:30\nProvider: FIFA\nReservation Number: 06014872699\nAttendees: 用户与 Kathy\nVenue: Vancouver / BC Place\nMatch: Round of 16\, M96\, current placeholder W85 vs W87\nSource: calendar screenshot file_8---d6f635fb-b941-4110-ba24-d0122fc63159.jpg + confucius-sanctum/projects/sports-match-tracking/fifa-world-cup-2026/温哥华-2026-07-07-fifa-比赛跟踪.md
+LOCATION:BC Place\, Vancouver\, BC
+END:VEVENT
+BEGIN:VEVENT
 UID:hippocrates-user-family-doctor-ldl-2026-06-10@openclaw-manual
-DTSTAMP:20260623T224537Z
+DTSTAMP:20260624T214248Z
 DTSTART;TZID=America/Vancouver:20260610T120000
 DTEND;TZID=America/Vancouver:20260610T123000
 SUMMARY:本人家庭医生电话问诊：Dr. Wang
