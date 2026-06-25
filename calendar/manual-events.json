@@ -101,6 +101,15 @@
     "dtend": "20260707T143000"
   },
   {
+    "uid": "confucius-monthly-task-habit-review-format-discussion-2026-06-26@openclaw-manual",
+    "summary": "讨论：月度任务与 Habit 复盘格式",
+    "description": "提醒用户一起讨论：基于已有每日的日程与每周 Habits 完成情况，设计每月任务完成 / 习惯跟踪复盘的格式、内容与执行节奏。先讨论，不直接定稿。\nSource: confucius-sanctum/agenda.md + cron job a2fa791c-1993-41bd-8c9f-5c72a7043c9d",
+    "location": "Telegram / Confucius",
+    "timezone": "America/Vancouver",
+    "dtstart": "20260626T100000",
+    "dtend": "20260626T103000"
+  },
+  {
     "uid": "hippocrates-user-family-doctor-ldl-2026-06-10@openclaw-manual",
     "summary": "本人家庭医生电话问诊：Dr. Wang",
     "description": "NUME MD Medical Clinic · Dr. Wang · 电话问诊\n本次准备讨论国内检查提示 LDL（坏胆固醇）偏高的问题。\nSource: hippocrates-asclepeion/projects/长期健康资料/本人/全科/LDL-偏高/2026-06-10-家庭医生电话问诊预约.md",
