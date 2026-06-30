@@ -108,5 +108,23 @@
     "timezone": "America/Vancouver",
     "dtstart": "20260610T120000",
     "dtend": "20260610T123000"
+  },
+  {
+    "uid": "aristotle-nas-photo-indexing-followup-2026-06-26@openclaw-manual",
+    "summary": "NAS photo indexing follow-up",
+    "description": "Check Aristotle NAS Index / Photo Indexing after LaunchAgent log-dir fix. Verify 03:15 run status, launchd logs, and next blocker if any. OpenClaw cron job: 679b79cb-21c0-41ae-9fcd-1d5db326edea. Source: aristotle-lyceum/projects/nas-index/README.md",
+    "location": "OpenClaw / Aristotle",
+    "timezone": "America/Vancouver",
+    "dtstart": "20260626T090000",
+    "dtend": "20260626T091500"
+  },
+  {
+    "uid": "giskard-ll-climbing-after-age-3-reminder-2026-11-26@openclaw-manual",
+    "summary": "提醒：重新查图南北培 3 岁后攀爬 / 攀岩课",
+    "description": "图南和北培已经过 3 岁。重新检查 Coquitlam / Port Coquitlam / Maple Ridge 附近适合 3 岁以上儿童的攀岩、攀爬、ninja/open gym 或 family climb 课程与体验，重点看年龄门槛、周末时段、是否适合双胞胎一起参加，并给出可报名建议。\nOpenClaw cron job: f2b86b6b-be25-4ace-81b6-fb38586d6c96.",
+    "location": "OpenClaw / Giskard",
+    "timezone": "America/Vancouver",
+    "dtstart": "20261126T093000",
+    "dtend": "20261126T094500"
   }
 ]
