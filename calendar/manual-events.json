@@ -64,13 +64,40 @@
     "dtend": "20260808T163000"
   },
   {
-    "uid": "confucius-vancouver-island-west-coast-family-trip-2026-07-25@openclaw-manual",
+    "uid": "confucius-vancouver-island-west-coast-family-trip-2026-07-26@openclaw-manual",
     "summary": "Vancouver Island / Tofino / Green Point family trip",
-    "description": "当前最新记录按 2026-07-25 至 2026-08-02 处理：7/25-7/27 Nanaimo；7/27-7/29 Ucluelet 室内住宿待收敛；7/29-7/31 Ucluelet Campground；7/31-8/2 Green Point Campground Site 39。用户 2026-06-23 记得可能是 7/26-8/2；已核对现有项目记录为 7/25-8/2，后续如确认改期再调整。\nSource: confucius-sanctum/projects/vancouver-island-west-coast-family-trip-2026/README.md + memory/2026-06-14.md",
+    "description": "当前最终口径：2026-07-26 至 2026-08-02。住宿按 check-in 到 check-out 写法：Nanaimo 7/26-7/28；Port Alberni 7/28-7/29；Ucluelet 7/29-7/31；Green Point Campground Site 39 7/31-8/2。最终入口：confucius-sanctum/projects/vancouver-island-west-coast-family-trip-2026/总行程-最新版.html。\nSource: confucius-sanctum/projects/vancouver-island-west-coast-family-trip-2026/README.md + 当前资料/总行程-最新版.md + user confirmation 2026-06-30",
     "location": "Nanaimo / Ucluelet / Green Point Campground, Vancouver Island, BC",
     "timezone": "America/Vancouver",
-    "dtstart": "20260725T090000",
+    "dtstart": "20260726T090000",
     "dtend": "20260802T200000"
+  },
+  {
+    "uid": "confucius-vancouver-island-trip-prep-followup-2026-07-01@openclaw-manual",
+    "summary": "提醒：Vancouver Island 出行准备第一组",
+    "description": "7/1-7/3 前完成第一组：订 7/26、7/29、8/2 BC Ferries；复核 Green Point Site 39；办 BC Tidal Waters Sport Fishing Licence；查 Area 23 / 123 规则；决定 7/30 Ucluelet 晚餐；确认 Mary / Mark ferry 与汇合信息。\nOpenClaw cron job: 3eee6684-81fd-477c-ac71-62783722c68e.\nSource: confucius-sanctum/projects/vancouver-island-west-coast-family-trip-2026/当前资料/出行前准备清单.md",
+    "location": "OpenClaw / Confucius",
+    "timezone": "America/Vancouver",
+    "dtstart": "20260701T093000",
+    "dtend": "20260701T094500"
+  },
+  {
+    "uid": "confucius-vancouver-island-trip-prep-followup-2026-07-02@openclaw-manual",
+    "summary": "跟进：Vancouver Island 出行准备第一组",
+    "description": "继续跟进 7/1-7/3 第一组剩余事项：BC Ferries 三段、Green Point Site 39、BC Tidal Waters Sport Fishing Licence、Area 23 / 123 规则、7/30 Ucluelet 晚餐、Mary / Mark 汇合信息。\nOpenClaw cron job: 3d033ff0-be43-4f69-bae2-cf91b1d47c93.\nSource: confucius-sanctum/projects/vancouver-island-west-coast-family-trip-2026/当前资料/出行前准备清单.md",
+    "location": "OpenClaw / Confucius",
+    "timezone": "America/Vancouver",
+    "dtstart": "20260702T093000",
+    "dtend": "20260702T094500"
+  },
+  {
+    "uid": "confucius-vancouver-island-trip-prep-followup-2026-07-03@openclaw-manual",
+    "summary": "收尾：Vancouver Island 出行准备第一组",
+    "description": "第一组收尾日：核对 BC Ferries 三段、Green Point Site 39、BC Tidal Waters Sport Fishing Licence、Area 23 / 123 规则、7/30 Ucluelet 晚餐、Mary / Mark 汇合信息。未完成项压缩成当天必须处理清单，并准备进入 7/4-7/10 查缺和买硬装备阶段。\nOpenClaw cron job: 1ff121eb-a746-4896-8228-6ca165195f0c.\nSource: confucius-sanctum/projects/vancouver-island-west-coast-family-trip-2026/当前资料/出行前准备清单.md",
+    "location": "OpenClaw / Confucius",
+    "timezone": "America/Vancouver",
+    "dtstart": "20260703T093000",
+    "dtend": "20260703T094500"
   },
   {
     "uid": "giskard-vso-mini-music-makers-coquitlam-2026-08@openclaw-manual",
