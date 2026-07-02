@@ -153,5 +153,14 @@
     "timezone": "America/Vancouver",
     "dtstart": "20261126T093000",
     "dtend": "20261126T094500"
+  },
+  {
+    "uid": "giskard-ll-growth-measurement-followup-2026-07-02@openclaw-manual",
+    "summary": "追踪：Luka 和 Leah 本月生长数据测量",
+    "description": "今晚 21:00 追踪本月身高、体重、头围测量。测完后更新 LL 生长跟踪主线。\nOpenClaw cron job: ff1d64e6-fb95-4848-9212-b8ba484bee02.",
+    "location": "OpenClaw / Giskard",
+    "timezone": "America/Vancouver",
+    "dtstart": "20260702T210000",
+    "dtend": "20260702T211500"
   }
 ]
